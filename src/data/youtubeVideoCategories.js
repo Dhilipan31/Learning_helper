@@ -5,7 +5,7 @@ export const videoCategories = [
             {
                 title: "Data Cloud Overview | Unlock Your Data with Data Cloud",
                 channel: "Salesforce Support",
-                duration: "24:13",
+                duration: "14:13",
                 description: "High-level walkthrough of Data Cloud core features & architecture",
                 url: "https://www.youtube.com/watch?v=8YQEdkfPRos"  // Valid URL :contentReference[oaicite:0]{index=0}
             },
